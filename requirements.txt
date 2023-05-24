@@ -130,7 +130,7 @@ pytz-deprecation-shim==0.1.0.post0
     # via tzlocal
 pyyaml==6.0
     # via langchain
-requests==2.30.0
+requests==2.31.0
     # via
     #   langchain
     #   openai
