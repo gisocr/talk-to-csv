@@ -177,7 +177,7 @@ tzlocal==4.3
     # via streamlit
 urllib3==2.0.2
     # via requests
-validators==0.20.0
+validators==0.21.0
     # via streamlit
 yarl==1.9.2
     # via aiohttp
