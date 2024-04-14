@@ -46,7 +46,7 @@ gitdb==4.0.10
     # via gitpython
 gitpython==3.1.31
     # via streamlit
-idna==3.4
+idna==3.7
     # via
     #   requests
     #   yarl
