@@ -104,7 +104,7 @@ pandas==2.0.1
     #   streamlit
 pillow==9.5.0
     # via streamlit
-protobuf==3.20.3
+protobuf==4.25.8
     # via streamlit
 pyarrow==12.0.0
     # via streamlit
@@ -175,7 +175,7 @@ tzdata==2023.3
     #   pytz-deprecation-shim
 tzlocal==4.3
     # via streamlit
-urllib3==2.0.2
+urllib3==2.5.0
     # via requests
 validators==0.20.0
     # via streamlit
